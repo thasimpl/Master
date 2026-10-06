@@ -6,10 +6,10 @@
   "tracking": {
     "current_repo_id": 7,
     "current_folder_id": 2,
-    "current_file_id": 19,
-    "steps_subtracted": 156500000,
-    "last_x": "0x51aec7bbdc121456c31b04fc0fb98c40666a2498e60d0eadd180db276c8f3c50",
-    "last_y": "0x8018fedb77578e24932f54816566c90c27bcae2e0df00c22e554e452ae56c11a"
+    "current_file_id": 22,
+    "steps_subtracted": 157000000,
+    "last_x": "0x769d7672f9b9dc26b0103dac89c9fbe335ceea12c16ac32403fc13f74996fbb6",
+    "last_y": "0x6b43e5166fc34039a77039030775af3dd1b0d0a9b4a2d22ee24e4b682e61da08"
   },
   "complete": false
 }
