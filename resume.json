@@ -4,12 +4,12 @@
     "total_backtrack_target": 1000000000
   },
   "tracking": {
-    "current_repo_id": 3,
-    "current_folder_id": 4,
-    "current_file_id": 40,
-    "steps_subtracted": 73500000,
-    "last_x": "0xca211c9b546c0902eb4e14cc6a399b4cbe68b322664855190494bb11340935c0",
-    "last_y": "0x4be74d249fe8b5a62a3cbba40675c689d16923293abf0d830b7a066fff7e78d"
+    "current_repo_id": 4,
+    "current_folder_id": 1,
+    "current_file_id": 2,
+    "steps_subtracted": 74000000,
+    "last_x": "0x56ee06df1db60a65d62ee655dc09330d3eb0c48d068b6ed6481e0923030d6c90",
+    "last_y": "0xfadc19b0a5bc93e05e1192e0251a47ebd1e5a6bfc2e17639951df872838825c7"
   },
   "complete": false
 }
